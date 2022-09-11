@@ -1,7 +1,4 @@
-	params
-dir
-ext md 0
-end
+	ext md 0
 	i
 hello gopherspace!
 
@@ -13,3 +10,4 @@ files directory
 external http link
 #sdf.org/users
 super dimensional fortress
+	dir
